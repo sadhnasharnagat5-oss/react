@@ -10,6 +10,8 @@
 
 -git push -u origin main --force
 
+# Steps for run app
+
 -npx parcel index.html
 
 -npx parcel build index.html
