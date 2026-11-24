@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadhnasharnagat5-oss/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sadhna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadhnasharnagat5-oss/react/issues"
+  },
+  "homepage": "https://github.com/sadhnasharnagat5-oss/react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
