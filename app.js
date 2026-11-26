@@ -20,6 +20,7 @@ const TitleComponent = () => {
   return (
     <div className='title'>
       <h1> Title component</h1>
+      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-pO6qckNHNPfGjbf-Whj6EDFi-SM2W6gdeFH2zHrZQ&s=10' />
     </div>
   );
 };
