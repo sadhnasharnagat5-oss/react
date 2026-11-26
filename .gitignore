@@ -56,4 +56,4 @@ Thumbs.db
 .env.local
 .env.development
 .env.production.local
-.env.production
+.env.production.parcel-cache/
